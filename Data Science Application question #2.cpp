@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/* Find a number that is a product of 3 digit number which is a palindrome  */
+/* Find a number that is a product of two 3 digit number which is a palindrome  */
 
 bool palindrome (int n);
 
